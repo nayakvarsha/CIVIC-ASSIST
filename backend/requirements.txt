@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+easyocr
+pymupdf
+Pillow
+numpy
+opencv-python
+groq
+python-dotenv
+torch
+torchvision
+httpx
+beautifulsoup4
